@@ -2,14 +2,31 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="C:/Python27/Lib/functools.py" timestamp="1556508523435">
+        <mark key="'" line="12" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="12" column="0" filename="C:/Python27/Lib/functools.py" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>wrapper</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>wrapper</last-search>
+      <last-offset />
+      <last-pattern>wrapper</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>wrapper</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>

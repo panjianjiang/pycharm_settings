@@ -6,11 +6,10 @@
       <file name="C:/Python27/Lib/functools.py" timestamp="1556509056965">
         <mark key="'" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/foobar/foobar.py" timestamp="1556521470204">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
-        <mark key="^" line="13" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/foobar/foobar.py" timestamp="1556522110443">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -19,15 +18,27 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGZvb2JhcigpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 11</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQgYSwgYgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YSwgYiA9IDEwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGZvb2JhcigpOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwo=</text>
       </register>
       <register name=":" type="4">

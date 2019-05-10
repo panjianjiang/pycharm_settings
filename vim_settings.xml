@@ -3,23 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/foobar/foobar.py" timestamp="1557466176232">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/foobar/foobar.py" timestamp="1557467976013">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnQgaXNkdXAoKDEsMSwgMiwzLDQpKQo=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>n</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQgdG9kaWdpdHMoOTc5ODc1MTIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
     </registers>
     <search>

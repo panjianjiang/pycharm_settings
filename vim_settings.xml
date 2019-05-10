@@ -2,70 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="C:/Python27/Lib/functools.py" timestamp="1556509056965">
-        <mark key="'" line="104" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/foobar/foobar.py" timestamp="1556522110443">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="12" column="0" filename="C:/Python27/Lib/functools.py" />
-      <jump line="104" column="0" filename="C:/Python27/Lib/functools.py" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgYSwgYgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YSwgYiA9IDEwCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGZvb2JhcigpOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>, 11</text>
-      </register>
-      <register name="/" type="4">
-        <text>wrapper</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
-      <last-search>wrapper</last-search>
-      <last-offset />
-      <last-pattern>wrapper</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>wrapper</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>

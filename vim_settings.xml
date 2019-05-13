@@ -2,14 +2,27 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/FutureTask.java" timestamp="1557726056223">
+        <mark key="'" line="142" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="62" column="0" filename="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/FutureTask.java" />
+      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/FutureTask.java" />
+      <jump line="142" column="0" filename="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/FutureTask.java" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>

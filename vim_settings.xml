@@ -2,14 +2,58 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/untitled/follow.py" timestamp="1559382927113">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/countdown.py" timestamp="1559382846737">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/access-log" timestamp="1559382969002">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">bmV4dCh4KQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CnggPSBjb3VudGRvd24oMTApCm5leHQoeCkKbmV4dCh4KQpuZXh0KHgpCm5leHQoeCkKbmV4dCh4KQpuZXh0KHgpCm5leHQoeCkKbmV4dCh4KQpuZXh0KHgpCm5leHQoeCkKbmV4dCh4KQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnggPSBjb3VudGRvd24oMTApCm5leHQoeCkKbmV4dCh4KQpuZXh0KHgpCm5leHQoeCkKbmV4dCh4KQpuZXh0KHgpCm5leHQoeCkKbmV4dCh4KQpuZXh0KHgpCm5leHQoeCkKbmV4dCh4KQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGMgPSBjb3VudGRvd24oNSkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>

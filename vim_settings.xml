@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/untitled/grepclose.py" timestamp="1559389914263">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/grepclose.py" timestamp="1559451653195">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/grep.py" timestamp="1559389283593">
         <mark key="'" line="9" column="11" />
@@ -50,8 +50,8 @@
       <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/untitled/grep.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>close</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>close</text>
@@ -60,31 +60,31 @@
         <text encoding="base64">Zy5zZW5kKCJBIHNlcmllcyBvZiB0dWJlcyEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBncmVwIGltcG9ydCBncmVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb3JvdXRpbmUgaW1wb3J0IGNvcm91dGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBncmVwIGltcG9ydCBncmVwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb3JvdXRpbmUgaW1wb3J0IGNvcm91dGluZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBncmVwIGltcG9ydCBncmVwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zy5zZW5kKCJweXRob24gZ2VuZXJhdG9ycyByb2NrISIpCg==</text>
+        <text encoding="base64">ZnJvbSBncmVwIGltcG9ydCBncmVwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zy5zZW5kKCJBIHNlcmllcyBvZiB0dWJlcyEiKQo=</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -95,9 +95,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>

@@ -22,11 +22,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/bogus.py" timestamp="1559470588750">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/bogus.py" timestamp="1559488805016">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/follow.py" timestamp="1559387725149">
         <mark key="[" line="13" column="0" />
@@ -56,11 +56,11 @@
       <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/untitled/grep.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBncmVwIGltcG9ydCBncmVwCg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>close</text>
+        <text>-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zy5zZW5kKCJBIHNlcmllcyBvZiB0dWJlcyEiKQo=</text>

@@ -63,10 +63,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/buses.py" timestamp="1559539971362">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/buses.py" timestamp="1559541819963">
+        <mark key="'" line="44" column="1" />
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/buses.xml" timestamp="1559539606874">
         <mark key="'" line="3" column="0" />
@@ -79,13 +81,14 @@
     <jumps>
       <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/untitled/grep.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/untitled/buses.xml" />
+      <jump line="42" column="1" filename="$USER_HOME$/PycharmProjects/untitled/buses.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBzdGFydEVsZW1lbnQoc2VsZiwgbmFtZSwgYXR0cnMpOgogICAgICAgIHByaW50ICJzdGFydEVsZW1lbnQiLCBuYW1lCg==</text>

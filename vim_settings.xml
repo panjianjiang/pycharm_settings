@@ -63,18 +63,17 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/buses.py" timestamp="1559536096471">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/buses.py" timestamp="1559539971362">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/buses.xml" timestamp="1559536299854">
+      <file name="$USER_HOME$/PycharmProjects/untitled/buses.xml" timestamp="1559539606874">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="15" />
+        <mark key="]" line="2" column="8" />
         <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+        <mark key="." line="2" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -82,55 +81,55 @@
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/untitled/buses.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBzdGFydEVsZW1lbnQoc2VsZiwgbmFtZSwgYXR0cnMpOgogICAgICAgIHByaW50ICJzdGFydEVsZW1lbnQiLCBuYW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvYnVzPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxidXM+Cg==</text>
-      </register>
-      <register name="5" type="8">
-        <text>!
-!
-!
-!
-!
-!</text>
-      </register>
-      <register name="6" type="8">
-        <text>!
-!
-!
-!
-!
-!
-!
-!
-!
-!</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBncmVwIGltcG9ydCBncmVwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwvYnVzPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAuLi4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxidXM+Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text>!
+!
+!
+!
+!
+!</text>
+      </register>
+      <register name="8" type="8">
+        <text>!
+!
+!
+!
+!
+!
+!
+!
+!
+!</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZyA9IGdyZXAoInB5dGhvbiIpCg==</text>
+        <text encoding="base64">ZnJvbSBncmVwIGltcG9ydCBncmVwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -14,12 +14,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559635545921">
+      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559644157345">
         <mark key="'" line="17" column="18" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559635356165">
         <mark key="'" line="44" column="27" />
@@ -38,7 +38,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
+        <text encoding="base64">ICAgIG15dGlkID0gR2V0VGlkKCkK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -47,31 +47,31 @@
         <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgU2NoZWR1bGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
+        <text encoding="base64">ICAgIG15dGlkID0gR2V0VGlkKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHlpZWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDIiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHlpZWxkCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDIiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDEiCg==</text>
+        <text encoding="base64">ICAgIHlpZWxkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGZvbygpOgo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDEiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

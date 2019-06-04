@@ -14,19 +14,19 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559644157345">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559649528053">
+        <mark key="'" line="19" column="18" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559646721310">
-        <mark key="'" line="56" column="27" />
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559649035576">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -35,43 +35,44 @@
       <jump line="18" column="26" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
       <jump line="34" column="30" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
       <jump line="40" column="27" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>GetTid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgU2NoZWR1bGVyCg==</text>
+        <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgR2V0VGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG15dGlkID0gR2V0VGlkKCkK</text>
+        <text encoding="base64">c2NoZWQubmV3KGJhcigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
+        <text encoding="base64">c2NoZWQubmV3KGZvbygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDUpOgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlpZWxkCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiSSdtIGJhciIsIG15dGlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDIiCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHlpZWxkCg==</text>
+        <text encoding="base64">ICAgIG15dGlkID0gKHlpZWxkIEdldFRpZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

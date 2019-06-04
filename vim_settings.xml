@@ -14,61 +14,64 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559626849813">
-        <mark key="'" line="14" column="18" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559635545921">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559626776752">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559635356165">
+        <mark key="'" line="44" column="27" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="36" />
       </file>
     </filemarks>
     <jumps>
       <jump line="25" column="23" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
       <jump line="14" column="18" filename="$USER_HOME$/PycharmProjects/coroutines/main.py" />
+      <jump line="18" column="26" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
+      <jump line="34" column="30" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
+      <jump line="40" column="27" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>while True:</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2NoZWQubmV3KGZvbygpKQo=</text>
+        <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgU2NoZWR1bGVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHlpZWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDIiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHlpZWxkCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDIiCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDEiCg==</text>
+        <text encoding="base64">ICAgIHlpZWxkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGZvbygpOgo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJQYXJ0IDEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGZvbygpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -3,12 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559720592003">
-        <mark key="'" line="16" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559723669819">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="63" column="16" />
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
         <mark key="^" line="63" column="18" />
+      </file>
+      <file name="/Python Console" timestamp="1559723104885">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/coroutine.py" timestamp="1559624087579">
         <mark key="[" line="4" column="16" />
@@ -24,7 +27,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559716405120">
+      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559723098395">
         <mark key="'" line="10" column="12" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="0" />
@@ -44,8 +47,8 @@
         <mark key="." line="48" column="22" />
         <mark key="^" line="48" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559721993349">
-        <mark key="'" line="12" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559724513118">
+        <mark key="'" line="13" column="18" />
         <mark key="[" line="48" column="31" />
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
@@ -71,7 +74,6 @@
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="32" column="15" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="15" column="20" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="12" column="26" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="13" column="25" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="16" column="37" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
@@ -80,6 +82,13 @@
       <jump line="24" column="44" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="12" column="8" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="26" column="26" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="13" column="18" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -89,7 +98,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>del</text>
+        <text>Spawn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgZ2V0dGlkCg==</text>
@@ -126,9 +135,9 @@
       </register>
     </registers>
     <search>
-      <last-search>del</last-search>
+      <last-search>Spawn</last-search>
       <last-offset />
-      <last-pattern>del</last-pattern>
+      <last-pattern>Spawn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -137,6 +146,8 @@
         <entry>taskmap</entry>
         <entry>get</entry>
         <entry>del</entry>
+        <entry>tasks</entry>
+        <entry>Spawn</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>

@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559710850363">
+      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559715337859">
         <mark key="'" line="16" column="37" />
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-        <mark key="^" line="26" column="39" />
+        <mark key="[" line="26" column="77" />
+        <mark key="]" line="26" column="86" />
+        <mark key="." line="26" column="86" />
+        <mark key="^" line="26" column="86" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/coroutine.py" timestamp="1559624087579">
         <mark key="[" line="4" column="16" />
@@ -24,12 +24,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559704197763">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559716405120">
+        <mark key="'" line="10" column="12" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/task.py" timestamp="1559714623246">
         <mark key="[" line="2" column="19" />
@@ -44,12 +44,12 @@
         <mark key="." line="48" column="22" />
         <mark key="^" line="48" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559714963088">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559716648726">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -76,55 +76,58 @@
       <jump line="13" column="25" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="16" column="37" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="9" column="12" filename="$USER_HOME$/PycharmProjects/coroutines/main.py" />
+      <jump line="24" column="44" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>del</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgZ2V0dGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkdWxlKG5ld3Rhc2spCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2tzW25ld3Rhc2sudGlkXSA9IG5ld3Rhc2sK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkdWxlKG5ld3Rhc2spCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXd0YXNrID0gVGFzayh0YXJnZXQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrLnRhc2tpZCArPSAxCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhc2tpZCA9IDAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnRhc2tzW25ld3Rhc2sudGlkXSA9IG5ld3Rhc2sK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXd0YXNrID0gVGFzayh0YXJnZXQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUYXNrLnRhc2tpZCArPSAxCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRhc2tpZCA9IDAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tzW3NlbGYudGlkXS5zZW5kdmFsID0gc2VsZi52YWwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2tzW25ld3Rhc2sudGlkXSA9IG5ld3Rhc2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>del</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>del</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -132,6 +135,7 @@
       <history-search>
         <entry>taskmap</entry>
         <entry>get</entry>
+        <entry>del</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>

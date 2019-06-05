@@ -3,30 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559705425017">
+        <mark key="'" line="32" column="30" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/coroutine.py" timestamp="1559624087579">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="/a.dummy" timestamp="1559703378415">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/pyos1.py" timestamp="1559626810953">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559649528053">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/main.py" timestamp="1559704197763">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559649035576">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="36" />
-        <mark key="." line="36" column="36" />
-        <mark key="^" line="36" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559703169617">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="48" column="22" />
+        <mark key="." line="48" column="22" />
+        <mark key="^" line="48" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559705930571">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -36,60 +52,85 @@
       <jump line="34" column="30" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
       <jump line="40" column="27" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
       <jump line="56" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
+      <jump line="36" column="36" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" />
+      <jump line="40" column="16" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="15" column="20" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="32" column="30" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>GetTid</text>
+        <text>p</text>
+      </register>
+      <register name="/" type="4">
+        <text>taskmap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgR2V0VGlkCg==</text>
+        <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgZ2V0dGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2NoZWQubWFpbmxvb3AoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2NoZWQubmV3KGJhcigpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2NoZWQubmV3KGZvbygpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDUpOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBLaWxsKHRpZCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGtpbGwodGlkKToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiSSdtIGJhciIsIG15dGlkCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBTcGF3bih0YXJnZXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
+        <text encoding="base64">ZGVmIHNwYXduKHRhcmdldCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG15dGlkID0gKHlpZWxkIEdldFRpZCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>taskmap</last-search>
+      <last-offset />
+      <last-pattern>taskmap</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>taskmap</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

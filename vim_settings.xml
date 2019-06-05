@@ -3,12 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559723669819">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="18" />
-        <mark key="." line="63" column="18" />
-        <mark key="^" line="63" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559733601593">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/Python Console" timestamp="1559723104885">
         <mark key="[" line="0" column="0" />
@@ -92,10 +90,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="8" column="14" filename="$USER_HOME$/PycharmProjects/coroutines/main.py" />
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/main.py" />
+      <jump line="63" column="6" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aWQgKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -107,31 +106,31 @@
         <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgZ2V0dGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aWQgKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpZCArPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zY2hlZHVsZSh0YXNrKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBTZW5kdmFsKHRpZCwgdmFsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ZGVmIHNlbmR2YWwodGlkLCB2YWwpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGlkIGluIHJhbmdlKDEsIGxlbihzZWxmLnRhc2tzKSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdGlkID09IDA6IGNvbnRpbnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcyA9IHNlbGYudGFza3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

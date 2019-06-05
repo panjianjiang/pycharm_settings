@@ -31,6 +31,12 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/coroutines/task.py" timestamp="1559714623246">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559703169617">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="47" column="8" />
@@ -38,11 +44,12 @@
         <mark key="." line="48" column="22" />
         <mark key="^" line="48" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559705930571">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559714963088">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -68,13 +75,14 @@
       <jump line="12" column="26" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="13" column="25" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="16" column="37" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -83,31 +91,31 @@
         <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgZ2V0dGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tzW3NlbGYudGlkXS5zZW5kdmFsID0gc2VsZi52YWwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkdWxlKG5ld3Rhc2spCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0YXNrcwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2tzW25ld3Rhc2sudGlkXSA9IG5ld3Rhc2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBuZXd0YXNrID0gVGFzayh0YXJnZXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYXNrLnRhc2tpZCArPSAxCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBLaWxsKHRpZCkK</text>
+        <text encoding="base64">ICAgIHRhc2tpZCA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGtpbGwodGlkKToK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2tzW25ld3Rhc2sudGlkXSA9IG5ld3Rhc2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tzW3NlbGYudGlkXS5zZW5kdmFsID0gc2VsZi52YWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

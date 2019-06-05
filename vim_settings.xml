@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559705425017">
-        <mark key="'" line="32" column="30" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="26" column="30" />
-        <mark key="." line="21" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/syscall.py" timestamp="1559706691286">
+        <mark key="'" line="32" column="15" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/coroutine.py" timestamp="1559624087579">
         <mark key="[" line="4" column="16" />
@@ -61,14 +61,14 @@
       <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
-      <jump line="32" column="30" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
       <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="32" column="15" filename="$USER_HOME$/PycharmProjects/coroutines/syscall.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tzW3NlbGYudGlkXS5zZW5kdmFsID0gc2VsZi52YWwK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -80,28 +80,28 @@
         <text encoding="base64">ZnJvbSBweW9zMiBpbXBvcnQgZ2V0dGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tzW3NlbGYudGlkXS5zZW5kdmFsID0gc2VsZi52YWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0YXNrcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBLaWxsKHRpZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGtpbGwodGlkKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTcGF3bih0YXJnZXQpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBLaWxsKHRpZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHNwYXduKHRhcmdldCk6Cg==</text>
+        <text encoding="base64">ZGVmIGtpbGwodGlkKToK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

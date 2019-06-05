@@ -44,8 +44,8 @@
         <mark key="." line="48" column="22" />
         <mark key="^" line="48" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559716648726">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" timestamp="1559717379095">
+        <mark key="'" line="12" column="8" />
         <mark key="[" line="25" column="28" />
         <mark key="]" line="25" column="34" />
         <mark key="." line="25" column="34" />
@@ -79,6 +79,7 @@
       <jump line="9" column="12" filename="$USER_HOME$/PycharmProjects/coroutines/main.py" />
       <jump line="24" column="44" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/PycharmProjects/coroutines/scheduler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

@@ -9,7 +9,7 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1559806865462">
+      <file name="/Python Console" timestamp="1559811194848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1559703378415">
@@ -27,12 +27,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559808362099">
-        <mark key="'" line="5" column="24" />
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559811191021">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/coroutine.py" timestamp="1559803029093">
         <mark key="[" line="8" column="17" />
@@ -140,46 +140,47 @@
       <jump line="9" column="8" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" />
       <jump line="28" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" />
       <jump line="5" column="24" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" />
+      <jump line="13" column="23" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBweW9zLnN5c2NhbGwgaW1wb3J0IGdldHRpZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5aWVsZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBweW9zLnN5c2NhbGwgaW1wb3J0IGV4ZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBteXRpZCA9IHlpZWxkIGdldHRpZCgpCiAgICAgICAgcHJpbnQgIkknbSBmb28gJWQiICUgbXl0aWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBteXRpZCA9ICh5aWVsZCBnZXR0aWQoKSkK</text>
+        <text encoding="base64">ZnJvbSBweW9zLnN5c2NhbGwgaW1wb3J0IGdldHRpZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
+        <text encoding="base64">ZnJvbSBweW9zLmNvcm91dGluZSBpbXBvcnQgY29yb3V0aW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiSSdtIGJhciAlZCIgJSBteXRpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDUpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBleGVjdChiYXIoKSkK</text>
+        <text encoding="base64">ZGVmIGJhcigpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCB0aWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICBteXRpZCA9IHlpZWxkIGdldHRpZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tsaXN0W3RpZF0uc2VuZHZhbCA9IDAK</text>
+        <text encoding="base64">ZnJvbSBweW9zLnN5c2NhbGwgaW1wb3J0IHNlbmR2YWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NoZWQubmV3KGJhcigpKQo=</text>
+        <text encoding="base64">ZnJvbSBweW9zLnN5c2NhbGwgaW1wb3J0IGV4ZWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

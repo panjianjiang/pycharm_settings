@@ -27,11 +27,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559805074537">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="9" column="7" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559805597073">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/coroutine.py" timestamp="1559803029093">
         <mark key="[" line="8" column="17" />
@@ -57,12 +57,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559805001953">
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559805506181">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="38" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="50" column="15" />
       </file>
       <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" timestamp="1559798285726">
         <mark key="'" line="46" column="32" />
@@ -140,16 +140,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(yield)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>(yield)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Spawn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYW5kbGUoc2VsZik6CiAgICAgICAgdGlkID0gc2VsZi5zY2hlZC5uZXcoc2VsZi50YXJnZXQpCiAgICAgICAgc2VsZi50YXNrLnNlbmR2YWwgPSB0aWQKICAgICAgICBzZWxmLnNjaGVkLnNjaGVkdWxlKHNlbGYudGFzaykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnNjaGVkdWxlKHNlbGYudGFzaykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tsaXN0W3RpZF0uc2VuZHZhbCA9IDAK</text>

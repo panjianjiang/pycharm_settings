@@ -27,11 +27,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559803320940">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559805074537">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/coroutine.py" timestamp="1559803029093">
         <mark key="[" line="8" column="17" />
@@ -57,11 +57,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559803279430">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="38" />
-        <mark key="." line="21" column="38" />
-        <mark key="^" line="21" column="38" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559805001953">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" timestamp="1559798285726">
         <mark key="'" line="46" column="32" />
@@ -132,13 +133,17 @@
       <jump line="56" column="20" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
       <jump line="49" column="28" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
       <jump line="46" column="32" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
+      <jump line="21" column="45" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>(yield)</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>(yield)</text>
       </register>
       <register name="/" type="4">
         <text>Spawn</text>
@@ -147,25 +152,25 @@
         <text encoding="base64">ICAgIGRlZiBoYW5kbGUoc2VsZik6CiAgICAgICAgdGlkID0gc2VsZi5zY2hlZC5uZXcoc2VsZi50YXJnZXQpCiAgICAgICAgc2VsZi50YXNrLnNlbmR2YWwgPSB0aWQKICAgICAgICBzZWxmLnNjaGVkLnNjaGVkdWxlKHNlbGYudGFzaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tsaXN0W3RpZF0uc2VuZHZhbCA9IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIGNsb25lKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgRm9yayhTeXNjYWxsKToK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpjbGFzcyBDbG9uZShTeXNjYWxsKToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLnRhcmdldCA9IHNlbGYudGFzay50YXJnZXQKCiAgICBkZWYgaGFuZGxlKHNlbGYpOgogICAgICAgIHRpZCA9IHNlbGYuc2NoZWQubmV3KHNlbGYudGFyZ2V0KQogICAgICAgIHNlbGYudGFzay5zZW5kdmFsID0gdGlkCiAgICAgICAgc2VsZi5zY2hlZC5zY2hlZHVsZShzZWxmLnRhc2spCgoKZGVmIGNsb25lKCk6CiAgICByZXR1cm4gQ2xvbmUoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBoYW5kbGUoc2VsZik6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICh5aWVsZCBzcGF3bigpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aWQgPSBzZWxmLnNjaGVkLm5ldyhOb25lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBweW9zLnRhc2sgaW1wb3J0IFRhc2sK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2suc2VuZHZhbCA9IHRpZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>

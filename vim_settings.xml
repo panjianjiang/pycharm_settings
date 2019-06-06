@@ -9,7 +9,7 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1559800539928">
+      <file name="/Python Console" timestamp="1559806865462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1559703378415">
@@ -27,11 +27,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559805597073">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559807017409">
+        <mark key="'" line="9" column="8" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/coroutine.py" timestamp="1559803029093">
         <mark key="[" line="8" column="17" />
@@ -57,12 +58,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559805506181">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="38" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="50" column="15" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559807003241">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" timestamp="1559798285726">
         <mark key="'" line="46" column="32" />
@@ -137,56 +137,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" />
       <jump line="28" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" />
       <jump line="26" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Spawn</text>
+        <text encoding="base64">XDx5aWVsZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnNjaGVkdWxlKHNlbGYudGFzaykK</text>
+        <text encoding="base64">c2NoZWQubmV3KGZvbygpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tsaXN0W3RpZF0uc2VuZHZhbCA9IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNsb25lKCkK</text>
+        <text encoding="base64">c2NoZWQubmV3KGJhcigpKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRm9yayhTeXNjYWxsKToK</text>
+      <register name="4" type="8">
+        <text>#
+#
+#</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYW5kbGUoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkLnRhc2tsaXN0W3RpZF0uc2VuZHZhbCA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aWQgPSBzZWxmLnNjaGVkLm5ldyhOb25lKQo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIGNsb25lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2suc2VuZHZhbCA9IHRpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRm9yayhTeXNjYWxsKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBoYW5kbGUoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Spawn</last-search>
+      <last-search encoding="base64">XDx5aWVsZFw+</last-search>
       <last-offset />
-      <last-pattern>Spawn</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx5aWVsZFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -196,6 +199,7 @@
         <entry>del</entry>
         <entry>tasks</entry>
         <entry>Spawn</entry>
+        <entry encoding="base64">XDx5aWVsZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>

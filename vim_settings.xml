@@ -50,17 +50,18 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559790349298">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559796408976">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" timestamp="1559793709082">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="12" />
-        <mark key="^" line="52" column="15" />
-        <mark key="." line="53" column="12" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" timestamp="1559796312850">
+        <mark key="'" line="46" column="32" />
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="37" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/task.py" timestamp="1559714623246">
         <mark key="[" line="2" column="19" />
@@ -122,13 +123,15 @@
       <jump line="45" column="50" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
       <jump line="3" column="0" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
       <jump line="56" column="20" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
+      <jump line="49" column="28" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
+      <jump line="46" column="32" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gTm9uZQ==</text>
+        <text encoding="base64">ZGVsIA==</text>
       </register>
       <register name="/" type="4">
         <text>Spawn</text>
@@ -137,31 +140,31 @@
         <text encoding="base64">ZnJvbSBweW9zLnRhc2sgaW1wb3J0IFRhc2sK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseToK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpZCArPSAxCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpZCArPSAxCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudGFza2xpc3QucG9wKHRpZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYudGFza2xpc3RbdGlkXToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudGFza2xpc3QucG9wKHRpZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aWQgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYudGFza2xpc3RbdGlkXToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICB0aWQgPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

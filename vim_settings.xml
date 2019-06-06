@@ -27,10 +27,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559792668807">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/main.py" timestamp="1559797429010">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/pyos2.py" timestamp="1559703169617">
         <mark key="'" line="0" column="0" />
@@ -50,18 +51,18 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559796408976">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/syscall.py" timestamp="1559797368615">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" timestamp="1559796312850">
+      <file name="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" timestamp="1559797468626">
         <mark key="'" line="46" column="32" />
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="33" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/coroutines/task.py" timestamp="1559714623246">
         <mark key="[" line="2" column="19" />
@@ -127,11 +128,11 @@
       <jump line="46" column="32" filename="$USER_HOME$/OneDrive/PycharmProjects/coroutines/pyos/scheduler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVsIA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>Spawn</text>
@@ -140,31 +141,31 @@
         <text encoding="base64">ZnJvbSBweW9zLnRhc2sgaW1wb3J0IFRhc2sK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweW9zLnRhc2sgaW1wb3J0IFRhc2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpZCArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiSSdtIGJhciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDUpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudGFza2xpc3QucG9wKHRpZCkK</text>
+        <text encoding="base64">ZGVmIGJhcigpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYudGFza2xpc3RbdGlkXToK</text>
+        <text encoding="base64">ICAgIHJldHVybiBTcGF3bihzZWxmLnRhc2sudGFyZ2V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aWQgPSAxCg==</text>
+        <text encoding="base64">ZGVmIGNsb25lKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
